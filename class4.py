@@ -31,3 +31,7 @@ print(type(x))
 
 for x in range(6):
     print(x)
+
+x= {"name":"Ahad", "Age":50,"City":"Dhaka"}
+print(x)
+print(type(x))
