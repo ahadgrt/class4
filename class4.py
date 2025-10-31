@@ -25,13 +25,19 @@ x=(1,6,7,8,3)
 print(x)
 print(type(x))
 
-x=range(1,6)
+x=range(1,7)
 print(x)
 print(type(x))
 
 for x in range(6):
     print(x)
 
-x= {"name":"Ahad", "Age":50,"City":"Dhaka"}
+
+#Set Types:	set, frozenset
+x= {"apple", "banana", "cherry"}
 print(x)
 print(type(x))
+
+y = frozenset({"apple", "banana", "cherry"})
+print(y)
+print(type(y))
