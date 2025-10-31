@@ -39,3 +39,7 @@ print(type(x))
 x={"spinach","potato","tomato"}
 print(x)
 print(type(x))
+
+x=True
+print(x)
+print(type(x))
