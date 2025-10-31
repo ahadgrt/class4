@@ -25,7 +25,7 @@ x=(1,6,7,8,3)
 print(x)
 print(type(x))
 
-x=range(1,6)
+x=range(1,7)
 print(x)
 print(type(x))
 
