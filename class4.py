@@ -35,3 +35,7 @@ for x in range(6):
 x= {"name":"Ahad", "Age":50,"City":"Dhaka"}
 print(x)
 print(type(x))
+
+x={"spinach","potato","tomato"}
+print(x)
+print(type(x))
